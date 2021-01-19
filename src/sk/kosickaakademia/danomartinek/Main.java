@@ -5,5 +5,6 @@ public class Main {
         SPZ aa = new SPZ();
        // aa.isValidSPZ("KE 534iJ");
         aa.isValidOP("SK2Y4784");
+        aa.isValidSPZ("KE 534iJ");
     }
 }
