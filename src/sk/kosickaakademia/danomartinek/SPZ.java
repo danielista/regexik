@@ -22,4 +22,9 @@ public class SPZ {
         return true;
     }
 
+    public static boolean skuska (){
+        System.out.println("dano je najlepsi");
+        return true;
+    }
+
 }
