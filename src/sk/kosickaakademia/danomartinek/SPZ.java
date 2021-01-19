@@ -2,7 +2,10 @@ package sk.kosickaakademia.danomartinek;
 
 public class SPZ {
 
-
+    public static boolean skuska2 (){
+        System.out.println("toto je MASTER");
+        return true;
+    }
 
     public boolean isValidOP (String text) {
         if(text == null) return false;
