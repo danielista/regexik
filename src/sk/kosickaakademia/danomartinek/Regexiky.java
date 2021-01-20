@@ -1,6 +1,7 @@
 package sk.kosickaakademia.danomartinek;
+import java.util.regex.*;
 
-public class SPZ {
+public class Regexiky {
 
     public static boolean skuska2 (){
         System.out.println("toto je MASTER");
@@ -45,5 +46,10 @@ public class SPZ {
         System.out.println("dano je najlepsi");
         return true;
     }
+
+
+
+
+
 
 }
