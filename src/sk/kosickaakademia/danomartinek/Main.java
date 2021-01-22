@@ -11,6 +11,7 @@ public class Main {
         aa.isValidOP("SK2Y4784");
         aa.isValidSPZ("KE 534iJ");
 
+        aa.suborDatumyKontrola("Resources/money.txt");
 
         // ako si vyskúšať vlastné reg výrazy ;) :D mega je to :D
         vlastnyRegexikNaInputeAjMatcher();
